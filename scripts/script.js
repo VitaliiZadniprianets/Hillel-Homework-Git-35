@@ -20,3 +20,4 @@ let fullName = "";
 fullName = getFullName(firstName,lastName,surName,someString);
 
 let someValue = 2 ;
+console.log(someValue);
