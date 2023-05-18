@@ -5,4 +5,4 @@ let lastName = "Zadniprianets";
 console.log(lastName);
 
 let surName = 'Igorovich';
-
+console.log(surName);
