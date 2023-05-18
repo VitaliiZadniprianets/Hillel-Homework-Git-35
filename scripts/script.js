@@ -18,3 +18,5 @@ function getFullName (first,last,sur,string) {
 let fullName = "";
 
 fullName = getFullName(firstName,lastName,surName,someString);
+
+let someValue = 2 ;
