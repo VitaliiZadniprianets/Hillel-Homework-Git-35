@@ -20,6 +20,7 @@ let fullName = "";
 fullName = getFullName(firstName,lastName,surName,someString);
 
 let someValue = 2 ;
+console.log(someValue);
 
 
 
@@ -28,3 +29,7 @@ let someValue = 2 ;
 
 
 let someValue3 = 34344343;
+console.log(someValue);
+
+let someValue1 = 3;
+console.log(someValue1);
