@@ -20,3 +20,11 @@ let fullName = "";
 fullName = getFullName(firstName,lastName,surName,someString);
 
 let someValue = 2 ;
+
+
+
+
+
+
+
+let someValue3 = 34344343;
